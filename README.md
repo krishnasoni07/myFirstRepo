@@ -1,3 +1,1 @@
-# myFirstRepo
-It is my First Repo
-hii
+Hey, This is my first git repo. And here i will post my Leetcode programs.
